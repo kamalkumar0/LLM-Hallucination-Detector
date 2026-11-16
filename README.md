@@ -17,28 +17,32 @@ Paste an LLM response (or drop a PDF) and press **Check for hallucinations**.
 ### Settings
 Tune how much evidence is fetched and how strict the verdicts are.
 
-![Settings panel](<img width="1920" height="1080" alt="02_Controls" src="https://github.com/user-attachments/assets/e4c9e168-de85-4056-ab63-006affc9d276" />
-)
+<img width="1920" height="1080" alt="Settings panel" src="https://github.com/user-attachments/assets/8f593c4a-5543-48b4-994e-1760a35a4873" />
+
 
 ### PDF upload
 Upload a PDF by browsing or drag and drop. The text inside is checked claim by claim.
 
-![PDF upload](screenshots/03_upload_file.png)
+<img width="1920" height="1080" alt="PDF upload" src="https://github.com/user-attachments/assets/a2411756-8d11-43b7-9eaa-2ddf9984a2fc" />
+
 
 ### Overall verdict
 A score ring and verdict summarise the whole response, with filters for each claim type.
 
-![Hallucination detected](screenshots/04_hallucination_detected.png)
+<img width="1920" height="1080" alt="Hallucination detected" src="https://github.com/user-attachments/assets/a4730a78-c808-4d45-bf70-ace63bd6ae17" />
+
 
 ### Claim details
 Open any claim to see the Wikipedia sentences used as evidence, with entailment and contradiction scores.
 
-![Claim details](screenshots/05_detected_screen.png)
+<img width="1920" height="1080" alt="Claim details" src="https://github.com/user-attachments/assets/6b45240b-7484-4e35-a607-1e2e718f3401" />
+
 
 ### Evidence breakdown
 Every evidence sentence shows its source link, similarity score and NLI probabilities.
 
-![Evidence breakdown](screenshots/06_detected_screen.png)
+<img width="1920" height="1080" alt="Evidence breakdown" src="https://github.com/user-attachments/assets/afbe9b3f-543a-4ba4-abb0-2a924bc98346" />
+
 
 ---
 
