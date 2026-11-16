@@ -11,8 +11,8 @@ Everything runs locally with Hugging Face models. No paid API or API key is need
 ### Home screen
 Paste an LLM response (or drop a PDF) and press **Check for hallucinations**.
 
-![Home screen](<img width="1920" height="1080" alt="01_UI" src="https://github.com/user-attachments/assets/8992be4f-7bdb-4c65-9038-5bb99d95a6ab" />
-)
+<img width="1920" height="1080" alt="01_UI" src="https://github.com/user-attachments/assets/e4ee1200-64f0-4bd5-a6cf-31d3ede9aa95" />
+
 
 ### Settings
 Tune how much evidence is fetched and how strict the verdicts are.
