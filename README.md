@@ -2,7 +2,7 @@
 
 Check whether an AI-generated answer is actually true. HDLR pulls out every factual claim, finds matching evidence on Wikipedia, and uses a Natural Language Inference (NLI) model to judge each claim as **supported**, **contradicted**, or **not enough info**.
 
-Everything runs locally with Hugging Face models. No paid API or API key is needed.
+Everything runs with Hugging Face models. No paid API or API key is needed.
 
 ---
 
