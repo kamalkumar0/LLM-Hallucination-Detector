@@ -6,7 +6,7 @@ Everything runs with Hugging Face models. No paid API or API key is needed.
 
 ---
 
-## Screenshots
+## Screenshots of UI
 
 ### Home screen
 Paste an LLM response (or drop a PDF) and press **Check for hallucinations**.
