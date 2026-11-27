@@ -6,6 +6,8 @@ Everything runs with Hugging Face models. No paid API or API key is needed.
 
 ---
 
+## Live Demo : https://hallucination-detector-app-ccbpc0hqbzbcbta9.centralindia-01.azurewebsites.net/
+
 ## Screenshots of UI
 
 ### Home screen
